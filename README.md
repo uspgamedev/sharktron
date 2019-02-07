@@ -2,7 +2,7 @@
 
 **An open source competitive multiplayer game by people who love Hookshots and/or Sharks**
 
-This game was made for a game jam in 2018 (and is now being developed as full game named [Hooksharks](https://github.com/MarvellousSoft/hooksharks/)
+This game was made for a game jam in 2018 (and is now being developed as a full game named [Hooksharks](https://github.com/MarvellousSoft/hooksharks/))
 
 ----------------------------------------------------
 
